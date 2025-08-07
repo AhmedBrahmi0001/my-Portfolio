@@ -26,11 +26,8 @@
   "scripts": {
     "start": "cross-env NODE_OPTIONS=--openssl-legacy-provider react-scripts start",
     "build": "cross-env NODE_OPTIONS=--openssl-legacy-provider react-scripts build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "cloudflare:build": "npm install --legacy-peer-deps && npm run build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
