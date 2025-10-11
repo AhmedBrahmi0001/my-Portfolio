@@ -10,7 +10,7 @@ export const experienceData = [
   },
   {
     id: 2,
-    company: "DIGMACO",
+    company: "EDUCANET",
     jobtitle: "Full-Stack Developer",
     startYear: "March,2024",
     endYear: "August,2024",

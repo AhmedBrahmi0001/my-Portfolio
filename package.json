@@ -1,6 +1,7 @@
 {
   "name": "developer-portfolio",
   "version": "0.1.0",
+  "homepage": "https://myportfolioahmed.ahmedbrahm28.workers.dev",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.2",
