@@ -1,12 +1,12 @@
 export const experienceData = [
   {
     id: 1,
-    company: "Freelance Mission",
+    company: "Tunisia procelaine",
     jobtitle: "Full-Stack Developer",
-    startYear: "January,2025",
-    endYear: "Present",
+    startYear: "september,2024",
+    endYear: "november 2025",
     description:
-      "Freelance Full-Stack Developer delivering client-focused web solutions, including Taskflow (REST API + React.js UI), Createc (Laravel content platform), and an eCommerce store with payment integration. Built scalable backends like recipe-app-api and optimized cross-platform responsiveness. Committed to clean architecture and end-to-end project ownership.",
+      "Full-stack developer involved in the design, development, and maintenance of web applications. Responsible for implementing front-end and back-end features, integrating REST APIs, and optimizing application performance and security. Works closely with internal teams to meet business requirements and continuously improve existing solutions.",
   },
   {
     id: 2,
