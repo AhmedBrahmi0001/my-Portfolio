@@ -1,8 +1,8 @@
 export const experienceData = [
   {
     id: 1,
-    company: "Tunisia procelaine",
-    jobtitle: "Full-Stack Developer",
+    company: "Tunisie porcelaine",
+    jobtitle: "informatique engineering",
     startYear: "september,2024",
     endYear: "november 2025",
     description:
